@@ -125,3 +125,4 @@ C:\Users\kizil\OneDrive\Desktop\efcoreApp\bin\Debug\net8.0\runtimes\win-x64\nati
 C:\Users\kizil\OneDrive\Desktop\efcoreApp\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\kizil\OneDrive\Desktop\efcoreApp\obj\Debug\net8.0\efcoreApp.csproj.AssemblyReference.cache
 C:\Users\kizil\OneDrive\Desktop\efcoreApp\obj\Debug\net8.0\efcoreApp.csproj.Up2Date
+C:\Users\kizil\OneDrive\Desktop\efcoreApp\obj\Debug\net8.0\efcoreApp.sourcelink.json

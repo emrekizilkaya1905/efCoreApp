@@ -1,0 +1,19 @@
+# Derleme sonrası üretilen dosyalar
+bin/
+obj/
+*.dll
+*.exe
+
+# Yaygın Temp dosyaları
+*.log
+*.tmp
+*.pdb
+
+# Kullanıcı ve IDE dosyaları
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Publish edilen dosyalar
+publish/
