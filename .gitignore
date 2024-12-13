@@ -18,3 +18,8 @@ obj/
 # Publish edilen dosyalar
 publish/
 .vscode/
+# SQLite dosyaları
+*.db
+*.db-shm
+*.db-wal
+
